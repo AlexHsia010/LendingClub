@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
-# Authors: Eric@FLAGDream <eric.d@flagdream.com>
+
 
 import pandas as pd
 import numpy as np
